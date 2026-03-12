@@ -138,7 +138,7 @@ The resulting cleaned dataset was saved for exploratory analysis.
 
 # Notebook 2 — Exploratory Data Analysis
 
-**File:** `02_exploratory_analysis.ipynb`
+**File:** `exploratory_analysis.ipynb`
 
 ### Objective
 
@@ -218,7 +218,7 @@ These metrics helped highlight variables potentially associated with higher read
 
 # Notebook 3 — Model Evaluation
 
-**File:** `03_model_evaluation.ipynb`
+**File:** `model_evaluation.ipynb`
 
 ### Objective
 
