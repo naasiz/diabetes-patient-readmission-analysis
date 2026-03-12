@@ -326,7 +326,7 @@ This suggests that longer hospital stays may be associated with more severe case
 
 ---
 
-# Technologies Used
+# Tools Used
 
 **Programming**
 
