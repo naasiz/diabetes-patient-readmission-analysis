@@ -94,7 +94,7 @@ Three main notebooks implement the workflow.
 
 # Notebook 1 — Data Cleaning
 
-**File:** `01_data_cleaning.ipynb`
+**File:** `data_cleaning.ipynb`
 
 ### Objective
 
