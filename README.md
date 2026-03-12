@@ -276,6 +276,7 @@ Three Tableau visualizations summarize key insights from the analysis.
 
 ## Age Distribution by Readmission Status
 
+<img width="2133" height="1042" alt="age_readmission" src="https://github.com/user-attachments/assets/acfbeeb6-d73a-4605-92eb-33581ecae3d9" />
 This visualization compares readmission outcomes across age groups.
 
 Observations:
@@ -288,6 +289,7 @@ Observations:
 
 ## Readmission Proportion
 
+<img width="2136" height="517" alt="readmission_distribution" src="https://github.com/user-attachments/assets/f3b923a7-ebc7-4e95-9778-471239e13cde" />
 This chart shows the distribution of readmission outcomes.
 
 Observations:
@@ -302,6 +304,7 @@ This imbalance explains why predictive models struggled to correctly classify th
 
 ## Average Hospital Stay by Readmission Category
 
+<img width="2131" height="1037" alt="hospital_stay" src="https://github.com/user-attachments/assets/f0e3a04c-68d2-4266-89f4-7fbe5f9e2e87" />
 This visualization compares average hospital stay duration across readmission groups.
 
 Observations:
